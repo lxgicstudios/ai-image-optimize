@@ -43,7 +43,7 @@
   "homepage": "https://github.com/LXGIC-Studios/ai-image-optimize#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-image-optimize"
+    "url": "git+https://github.com/LXGIC-Studios/ai-image-optimize.git"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-image-optimize/issues"
