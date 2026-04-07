@@ -1,5 +1,5 @@
 {
-  "name": "ai-image-optimize",
+  "name": "@lxgicstudios/ai-image-optimize",
   "version": "1.0.0",
   "description": "AI-powered image optimizer - smart compression and format selection with GPT analysis",
   "main": "dist/index.js",
