@@ -45,7 +45,9 @@
     "page-speed",
     "performance",
     "responsive-images",
-    "webp"
+    "webp",
+    "2026-standards",
+    "modern-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
