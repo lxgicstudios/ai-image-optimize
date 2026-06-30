@@ -37,17 +37,12 @@
     "ai-overviews-performance",
     "compression",
     "crawlability",
-    "generative-engine-optimization",
-    "geo",
     "image-optimization",
-    "may-2026-core-update",
     "mobile-first",
     "page-speed",
     "performance",
     "responsive-images",
-    "webp",
-    "2026-standards",
-    "modern-seo"
+    "webp"
   ],
   "license": "MIT",
   "main": "dist/index.js",
