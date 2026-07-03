@@ -42,7 +42,9 @@
     "page-speed",
     "performance",
     "responsive-images",
-    "webp"
+    "webp",
+    "seo-optimized",
+    "clawdbot"
   ],
   "license": "MIT",
   "main": "dist/index.js",
