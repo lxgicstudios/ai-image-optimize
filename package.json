@@ -8,7 +8,7 @@
     "ai-image-optimize": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-image-optimize/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -32,7 +32,7 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-image-optimize",
+  "homepage": "https://github.com/LXGIC-Studios/ai-image-optimize",
   "keywords": [
     "ai-overviews-performance",
     "compression",
@@ -44,7 +44,19 @@
     "responsive-images",
     "webp",
     "seo-optimized",
-    "clawdbot"
+    "clawdbot",
+    "ai",
+    "anthropic",
+    "automation",
+    "claude",
+    "cli",
+    "copilot",
+    "cursor",
+    "developer-tools",
+    "devtools",
+    "gpt",
+    "npx",
+    "openai"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -55,8 +67,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
-    "directory": "ai-image-optimize"
+    "url": "git+https://github.com/LXGIC-Studios/ai-image-optimize.git"
   },
   "scripts": {
     "build": "tsc"
